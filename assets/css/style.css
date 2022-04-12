@@ -1,0 +1,13 @@
+.navbar-brand {
+    font-size: 20px;
+    font-weight: normal;
+    font-style: italic;
+}
+
+.card {
+    margin-top: 10px;
+}
+
+img {
+    width: 70% !important;
+}
